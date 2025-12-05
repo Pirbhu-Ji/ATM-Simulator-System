@@ -111,7 +111,6 @@ Alternatively, simply press Run in your chosen IDE (VS Code, IntelliJ, or NetBea
 👨‍💻 Developers (Group Project)
 This project was developed collaboratively as part of the Object-Oriented Programming (OOP) course.
 
-Name	              Roll Number         	Role
 Pirbhu Ji Rajput	  133-24-0012	        Lead Developer, Core Logic, Database Integration
 
 Abdul Saboor Memon	   133-24-0003	       Developer, GUI Components, Testing, Feature Implementation
@@ -120,4 +119,5 @@ Abdul Saboor Memon	   133-24-0003	       Developer, GUI Components, Testing, Fea
 Primary Contact:
 ●	Pirbhu Ji
 ●	Email: (pirbhujirajput.cse@gmail.com)
+
 
