@@ -100,23 +100,24 @@ String password = "your_mysql_password"; // Your MySQL password
 
 3. Compile and Run the Project
 Ensure your MySQL Connector/J JAR is included in the classpath (e.g., located in the lib/ folder).
-# Example compile command:
-# javac -cp lib/mysql-connector-java.jar -d classes src/bank/main/Main.java
+**# Example compile command:
+**# javac -cp lib/mysql-connector-java.jar -d classes src/bank/main/Main.java
 
 # Example run command:
-# java -cp classes:lib/mysql-connector-java.jar bank.main.Main
+# java -cp classes:lib/mysql-connector-java.jar bank.main.M**ain**
 
 Alternatively, simply press Run in your chosen IDE (VS Code, IntelliJ, or NetBeans).
 
 👨‍💻 Developers (Group Project)
 This project was developed collaboratively as part of the Object-Oriented Programming (OOP) course.
 
-Name	             Roll Number       	Role
-Pirbhu Ji Rajput	133-24-0012	  Lead Developer, Core Logic, Database Integration
+Name	              Roll Number         	Role
+Pirbhu Ji Rajput	  133-24-0012	        Lead Developer, Core Logic, Database Integration
 
-Abdul Saboor Memon	133-24-0003	  Developer, GUI Components, Testing, Feature Implementation
+Abdul Saboor Memon	   133-24-0003	       Developer, GUI Components, Testing, Feature Implementation
 
 
 Primary Contact:
 ●	Pirbhu Ji
 ●	Email: (pirbhujirajput.cse@gmail.com)
+
